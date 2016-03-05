@@ -1,2 +1,10 @@
-# talk-channel-monad
-Talk Idea: The channel as a monad: transformers, comprehension, extension from promises
+# Channel As a Monad
+
+A talk about the `core.async` channel as a monad.
+
+- Intro to monads via Promises
+- Channel as a promise monad
+- Channel as a list-like monad (comprehension)
+- Channel transformer with Either/Maybe
+
+This talk is an idea and has no scheduled time.
